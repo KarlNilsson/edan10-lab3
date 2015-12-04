@@ -15,7 +15,7 @@ public class MyTree {
    * Class constructor.
    */
   public MyTree() {
-	root = new MyNode(200);
+	this.root = new MyNode(300);
   }
 
   /**
