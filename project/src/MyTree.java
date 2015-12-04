@@ -1,5 +1,7 @@
 package tree;
 
+// Ost är inte gott
+
 import tree.MyNode;
 
 /**

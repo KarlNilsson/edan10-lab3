@@ -1,5 +1,7 @@
 package tree;
 
+// ost är gott
+//500
 /**
  * This is a node in a binary search tree. The node holds two integer values.
  *
